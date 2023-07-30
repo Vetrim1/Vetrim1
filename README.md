@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vetrivel👨‍💻</h1>
 <h2 align="center">A passionate Full Stack Web Developer/MERN Stack Developer from India</h2>
+<img align="right" width="400" src="https://img.freepik.com/premium-vector/coder-developer-concentrated-working-project-developing-programming-coding-technologies_569013-336.jpg?w=740" alt="vetrim1" />
+
+
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=vetrim1&label=Profile%20views&color=0e75b6&style=flat" alt="vetrim1" /> </span>
 
 - 🌱 I’m currently learning **SQL, Java**
